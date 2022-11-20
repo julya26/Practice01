@@ -1,0 +1,1 @@
+Задача_1 *Вывести квадрат числа* ![блок-схема](First01\diagram.drawio.png) / [Код](First01\Program.cs)
